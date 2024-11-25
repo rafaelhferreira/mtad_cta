@@ -1,0 +1,15 @@
+{
+    "id": "recipe_5",
+    "title": "Creamy Tomato Soup",
+    "rating": 4.2,
+    "methods": [
+        "Sauté onions and garlic in olive oil.",
+        "Add diced tomatoes, vegetable broth, and herbs to a pot.",
+        "Simmer until thickened.",
+        "Puree the soup until smooth.",
+        "Stir in heavy cream and season with salt and pepper."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A comforting and flavorful soup for a cold day."
+}

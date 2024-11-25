@@ -1,0 +1,14 @@
+{
+    "id": "recipe_4",
+    "title": "Homemade Pizza",
+    "rating": 4.5,
+    "methods": [
+        "Prepare pizza dough according to your preferred recipe.",
+        "Spread pizza sauce over the dough.",
+        "Add your desired toppings, such as cheese, pepperoni, and vegetables.",
+        "Bake in a preheated oven until the crust is golden brown and the cheese is melted."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A customizable and delicious meal you can make at home."
+}

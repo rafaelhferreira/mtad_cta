@@ -1,0 +1,15 @@
+{
+    "id": "recipe_8",
+    "title": "Grilled Cheese Sandwich",
+    "rating": 4.0,
+    "methods": [
+        "Butter one side of each slice of bread.",
+        "Place cheese between the bread slices.",
+        "Heat a skillet over medium heat.",
+        "Cook the sandwich on one side until golden brown.",
+        "Flip and cook the other side until golden brown and cheese is melted."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A simple and satisfying comfort food."
+}

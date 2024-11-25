@@ -1,0 +1,17 @@
+{
+    "id": "recipe_1",
+    "title": "Chocolate Chip Cookies",
+    "rating": 4.5,
+    "methods": [
+        "Preheat oven to 375°F (190°C).",
+        "Cream together butter and sugars.",
+        "Beat in egg and vanilla extract.",
+        "Combine flour, baking soda, and salt; gradually stir into creamed mixture.",
+        "Stir in chocolate chips.",
+        "Drop by rounded teaspoons onto ungreased baking sheets.",
+        "Bake for 9-11 minutes, or until golden brown."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A classic, delicious cookie recipe."
+}

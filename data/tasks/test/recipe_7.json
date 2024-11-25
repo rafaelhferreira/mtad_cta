@@ -1,0 +1,17 @@
+{
+    "id": "recipe_7",
+    "title": "Lemon Bars",
+    "rating": 4.5,
+    "methods": [
+        "Preheat oven to 350°F (175°C).",
+        "Press crust mixture into a baking pan.",
+        "Bake crust until golden brown.",
+        "Whisk together lemon juice, zest, sugar, and eggs.",
+        "Pour lemon mixture over crust.",
+        "Bake until set.",
+        "Cool completely before cutting into bars."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "Tart and sweet, a classic dessert."
+}

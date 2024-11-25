@@ -1,0 +1,16 @@
+{
+    "id": "recipe_3",
+    "title": "Chicken Marsala",
+    "rating": 4.0,
+    "methods": [
+        "Dredge chicken breasts in flour, then brown in olive oil.",
+        "Remove chicken from pan and set aside.",
+        "Sauté mushrooms and shallots in the same pan.",
+        "Add Marsala wine to deglaze the pan, scraping up any browned bits.",
+        "Return chicken to the pan and simmer in the sauce until cooked through.",
+        "Serve over pasta or rice."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A classic Italian-American dish with a rich, flavorful sauce."
+}

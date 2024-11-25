@@ -1,0 +1,14 @@
+{
+    "id": "recipe_6",
+    "title": "Vegan Chili",
+    "rating": 4.0,
+    "methods": [
+        "Sauté onions, bell peppers, and garlic in olive oil.",
+        "Add crushed tomatoes, vegetable broth, kidney beans, and spices to a pot.",
+        "Simmer until thickened and flavors are combined.",
+        "Serve with vegan cornbread or rice."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A hearty and satisfying vegan chili."
+}

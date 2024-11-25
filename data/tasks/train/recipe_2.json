@@ -1,0 +1,16 @@
+{
+    "id": "recipe_2",
+    "title": "Spaghetti Carbonara",
+    "rating": 4.2,
+    "methods": [
+        "Cook spaghetti according to package instructions.",
+        "In a large skillet, cook pancetta until crispy.",
+        "Add eggs, Parmesan cheese, and black pepper to a bowl and whisk until combined.",
+        "Drain the spaghetti and add it to the skillet with the pancetta.",
+        "Pour the egg mixture over the pasta and toss to coat.",
+        "Serve immediately with additional Parmesan cheese."
+    ],
+    "thumbnail_img_url": "",
+    "data_source": "recipe",
+    "description": "A rich and creamy Italian pasta dish."
+}
